@@ -1,2 +1,2 @@
 # Mate-server
-online chatting web-app
+online chatting web-app Mate
